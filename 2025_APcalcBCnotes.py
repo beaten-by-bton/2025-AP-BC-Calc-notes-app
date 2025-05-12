@@ -1,6 +1,5 @@
 #created by btonbybton 5/11/25, you are welcome to edit this code however
 #Main loop has all the decision information, calls Notes
-import sys
 def main():
     print("1-Derivatives/Rules\n2-Integrals/Rules\n3-Trig Identities\n4-Volume\n5-fund. theorem\n6-Physics")
     input("next page")
